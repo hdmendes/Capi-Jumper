@@ -1,0 +1,29 @@
+montar layout
+
+menu
+partida
+loja
+
+
+MENU
+Botao de partida
+Demais botoes - mensagem no jogo - "em construção... aguarde"
+
+Partida
+Movimentação player
+colição com objetos - saltar e passar por baixo
+coletar
+hud
+sistema de contabilizar acais
+sistema de pontos
+audio
+sistema de criação aleatoria de objs
+derrota
+
+
+Placar com maior pontuação
+hud
+
+Sistema
+transição de telas
+animação das placas e texto
