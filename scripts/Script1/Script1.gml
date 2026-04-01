@@ -4,7 +4,11 @@ global.coletavel = 0;
 global.perdeu = false;
 global.subindo = false;
 
-function pula()
+function quica()
 {
-	
+		if(global.subindo = false)
+	{
+		vspeed = -8;
+		global.subindo = true;
+	}
 }

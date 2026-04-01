@@ -1,7 +1,10 @@
 /// @description Pula
 
-if(global.subindo = false)
+if(global.subindo) exit;
+
+quica();
+
+with(other)
 {
-	vspeed = -8;
-	global.subindo = true;
+	vspeed += 5;
 }
