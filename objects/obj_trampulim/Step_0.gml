@@ -2,12 +2,12 @@
 
 
 
-if (x >= 177)
+if (x >= room_width)
 {
-    hspeed = -abs(hspeed); // garante que vai pra esquerda
+    hspeed = -abs(hspeed); // vai pra esquerda
 }
 
-if (x <= 5)
+if (x <= 0)
 {
-    hspeed = abs(hspeed); // garante que vai pra direita
+    hspeed = abs(hspeed); // vai pra direita
 }

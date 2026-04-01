@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_colisao",
+  "%Name":"obj_joao",
   "eventList":[],
   "managed":true,
-  "name":"obj_colisao",
+  "name":"obj_joao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Menu",
+    "path":"folders/Objects/Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_colisao",
-    "path":"sprites/spr_colisao/spr_colisao.yy",
+    "name":"spr_joao",
+    "path":"sprites/spr_joao/spr_joao.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -8,7 +8,7 @@ if(vspeed >= 0) global.subindo = false;
 // Derrota se sair da tela por baixo
 if(y > 332)
 {
-	room_goto(rm_menu);
+	//room_goto(rm_menu);
 }
 
 global.pontos ++;
