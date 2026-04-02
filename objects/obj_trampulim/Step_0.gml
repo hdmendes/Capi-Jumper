@@ -1,7 +1,5 @@
 /// @description Movimento
 
-
-
 if (x >= room_width)
 {
     hspeed = -abs(hspeed); // vai pra esquerda

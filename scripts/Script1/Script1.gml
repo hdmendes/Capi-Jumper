@@ -11,4 +11,5 @@ function quica()
 		vspeed = -8;
 		global.subindo = true;
 	}
+	
 }
