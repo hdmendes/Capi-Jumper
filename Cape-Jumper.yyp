@@ -52,6 +52,7 @@
     {"id":{"name":"obj_tronco","path":"objects/obj_tronco/obj_tronco.yy",},},
     {"id":{"name":"rm_joao_1","path":"rooms/rm_joao_1/rm_joao_1.yy",},},
     {"id":{"name":"rm_joao_2","path":"rooms/rm_joao_2/rm_joao_2.yy",},},
+    {"id":{"name":"rm_maior_pontuacao","path":"rooms/rm_maior_pontuacao/rm_maior_pontuacao.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
@@ -96,6 +97,7 @@
     {"roomId":{"name":"rm_joao_2","path":"rooms/rm_joao_2/rm_joao_2.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_joao_1","path":"rooms/rm_joao_1/rm_joao_1.yy",},},
+    {"roomId":{"name":"rm_maior_pontuacao","path":"rooms/rm_maior_pontuacao/rm_maior_pontuacao.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

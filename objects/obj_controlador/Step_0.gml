@@ -25,3 +25,4 @@ if (alvo_y < cam_y)
 	// posição da camera é no player na metade da altura da tela
     camera_set_view_pos(cam, 0, alvo_y);
 }
+
