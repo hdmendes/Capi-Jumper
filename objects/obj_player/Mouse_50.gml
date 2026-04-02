@@ -1,4 +1,4 @@
-/// @description Esquerda
+/// @description Move com o mouse
 
 if(mouse_x < room_width / 2)
 {

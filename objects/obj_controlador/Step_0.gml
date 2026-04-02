@@ -26,3 +26,13 @@ if (alvo_y < cam_y)
     camera_set_view_pos(cam, 0, alvo_y);
 }
 
+// criando plataforma
+
+var _topo_camera = camera_get_view_y(cam); // topo da camera
+
+
+
+
+
+
+
