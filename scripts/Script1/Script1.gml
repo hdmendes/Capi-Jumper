@@ -3,12 +3,15 @@ global. maior_pontuacao = 0;
 global.coletavel = 0;
 global.perdeu = false;
 global.subindo = false;
+global.skin = spr_capivara;
 
 function quica()
 {
 		if(global.subindo = false)
 	{
 		vspeed = -8;
+		instance_create_layer(x, y, "Player", obj_vfx_capi);
+		audio_play_sound(snd_pulo, 2, 0);
 		global.subindo = true;
 	}
 	

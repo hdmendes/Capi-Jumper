@@ -9,8 +9,8 @@
   "name":"obj_tronco",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Joaozinho",
+    "path":"folders/Objects/Joaozinho.yy",
   },
   "parentObjectId":null,
   "persistent":false,

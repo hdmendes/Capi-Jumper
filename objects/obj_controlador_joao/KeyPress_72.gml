@@ -1,0 +1,1 @@
+show_debug_message("maior ponto" + string(global.maior_pontuacao));

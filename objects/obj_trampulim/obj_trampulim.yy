@@ -9,8 +9,8 @@
   "name":"obj_trampulim",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Cape-Jumper",
+    "path":"Cape-Jumper.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
