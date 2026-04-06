@@ -8,8 +8,8 @@
   "name":"obj_coletavel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Joaozinho",
-    "path":"folders/Objects/Joaozinho.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
